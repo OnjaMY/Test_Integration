@@ -1,0 +1,483 @@
+#conteneur {
+    width: 1169px;
+    height: 3538px;
+    margin: auto;
+}
+
+#header {
+    background: url("../image/background_header.png");
+    width: 1169px;
+    height: 857px;
+}
+
+#menu ul,
+#menu2 ul {
+    list-style: none;
+}
+
+#menu ul li {
+    margin-top: 70px;
+    float: right;
+    width: 100px;
+    margin-right: 15px;
+}
+
+#menu2 ul li {
+    float: left;
+    width: 100px;
+    margin-right: 15px;
+    margin-left: 50px;
+}
+
+#menu ul li a,
+#menu2 ul li a {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+#menu2 {
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+h1,
+p {
+    color: white;
+}
+
+.present {
+    width: 1170px;
+    height: 977px;
+}
+
+.titre3 h1 {
+    color: black;
+}
+
+.titre {
+    position: absolute;
+    top: 300px;
+    left: 400px;
+}
+
+.paragraph {
+    text-align: center;
+    position: absolute;
+    top: 430px;
+    left: 200px;
+    font-size: 20px;
+}
+
+h3 {
+    color: grey;
+}
+
+.titre2 {
+    position: absolute;
+    top: 925px;
+    left: 600px;
+}
+
+.titre3 {
+    position: absolute;
+    top: 1000px;
+    left: 450px;
+    font-size: 25px;
+}
+
+.paragraph2 p {
+    color: grey;
+    font-size: 20px;
+}
+
+.paragraph2 {
+    position: absolute;
+    top: 1150px;
+    left: 300px;
+    text-align: center;
+}
+
+.image1 {
+    position: absolute;
+    top: 1325px;
+    left: 400px;
+    width: 569px;
+    height: 329px;
+}
+
+.article {
+    position: absolute;
+    background-color: #f7f7f7;
+    width: 1169px;
+    height: 797px;
+}
+
+.article div {
+    display: inline;
+    margin-left: -10px;
+}
+
+article h3 {
+    text-align: center;
+}
+
+article {
+    padding-top: 5px;
+    margin-top: 100px;
+    border: 1px;
+    width: 303px;
+    height: 568px;
+    background-color: white;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+article:hover {
+    color: white;
+    background-color: #304fff;
+}
+
+.article1 {
+    margin-left: 70px;
+}
+
+.article2 {
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-top: 100px;
+}
+
+div.article-demi {
+    height: 215px;
+    border-bottom: 2px solid #f7f7f7;
+    background-color: red;
+}
+
+p.chiffre {
+    font-size: 100px;
+    color: #666666;
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+    height: 30px;
+}
+
+.MO {
+    margin-left: 110px;
+    padding: 3px;
+    border: 1px solid;
+    margin-top: 10px;
+    text-align: center;
+    color: grey;
+    width: 75px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.para {
+    color: grey;
+    margin-top: 40px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.para2 {
+    color: grey;
+    margin-top: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.para:hover {
+    color: white;
+}
+
+.para2:hover {
+    color: white;
+}
+
+.btn {
+    margin-left: 60px;
+    margin-top: 10px;
+    width: 180px;
+    height: 54px;
+    border-radius: 30px;
+    background-color: white;
+    color: grey;
+    font-weight: bold;
+    border: 1px solid #e0d9d9;
+    margin-bottom: 10px;
+}
+
+.titre4 h3 {
+    position: absolute;
+    color: grey;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+.profil {
+    position: absolute;
+    margin-top: 800px;
+    height: 528px;
+    width: 1169px;
+}
+
+.avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 10px;
+    margin-left: 70px;
+}
+
+.profil1 {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+.profil2 {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 150px;
+}
+
+.comment p {
+    color: #666666;
+}
+
+.comment {
+    position: absolute;
+    width: 224px;
+    height: 98px;
+    margin-top: -100px;
+    margin-left: 200px;
+}
+
+.nom {
+    color: #666666;
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 300px;
+}
+
+.nom2 {
+    color: #666666;
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 800px;
+}
+
+footer {
+    background-color: black;
+    height: 370px;
+    width: 1170px;
+    position: absolute;
+    margin-top: 1250px;
+}
+
+footer img {
+    width: 32px;
+    height: 32px;
+}
+
+.avatar2 {
+    width: 30px;
+    height: 30px;
+    background-color: #666666;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #666666;
+    border-radius: 30px;
+    background-color: #666666;
+    margin-top: 100px;
+    margin-left: 300px;
+    text-align: center;
+}
+
+.circle img {
+    margin-top: 10px;
+    width: 25px;
+    height: 25px;
+}
+
+.circle2 img {
+    margin-top: 10px;
+    width: 25px;
+    height: 25px;
+}
+
+.circle3 img {
+    margin-top: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+.circle4 img {
+    margin-top: 5px;
+    width: 25px;
+    height: 25px;
+}
+
+.circle2 {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #666666;
+    border-radius: 30px;
+    background-color: #666666;
+    margin-left: 400px;
+    text-align: center;
+    margin-top: -40px;
+}
+
+.circle3 {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #666666;
+    border-radius: 30px;
+    background-color: #666666;
+    margin-left: 500px;
+    text-align: center;
+    margin-top: -40px;
+}
+
+.circle4 {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #666666;
+    border-radius: 30px;
+    background-color: #666666;
+    margin-left: 600px;
+    text-align: center;
+    margin-top: -40px;
+}
+
+.icon {
+    margin-left: 100px;
+}
+
+.copyright {
+    color: #666666;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+.mySlides {
+    display: none;
+}
+
+img {
+    margin-top: 500px;
+    width: 569px;
+    height: 329px;
+}
+
+
+/* Slideshow container */
+
+.slideshow-container {
+    max-width: 569px;
+    position: relative;
+    margin: auto;
+}
+
+
+/* Caption text */
+
+.text {
+    color: #666666;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+
+/* Number text (1/3 etc) */
+
+.numbertext {
+    color: #666666;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+
+/* The dots/bullets/indicators */
+
+.dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active {
+    background-color: #ea1e65;
+}
+
+
+/* Fading animation */
+
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 2s;
+    animation-name: fade;
+    animation-duration: 2s;
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+
+
+/* On smaller screens, decrease text size */
+
+@media only screen and (max-width: 300px) {
+    .text {
+        font-size: 11px
+    }
+}
